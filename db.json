@@ -1,0 +1,25 @@
+[ 
+    {
+     "id" : 1,
+     "genre" : "Action, Horror",
+     "judul" : "Resident Evil 2 Remake"
+   }, {
+     "id" : 2,
+     "genre" : "Action, Horror",
+     "judul" : "Resident Evil 3 Remake"
+   }, {
+     "id" : 3,
+     "genre" : "Action, Adventure",
+     "judul" : "Tomb Rider"
+   }, {
+     "id" : 4,
+     "genre" : "Adventure, Action",
+     "judul" : "GTA V"
+   }, {
+     "id" : 5,
+     "genre" : "FPS, Action, Adventure, War ",
+     "judul" : "Call Of Duty 4: Modern Warfare 2"
+   } 
+ ]
+ 
+ 
